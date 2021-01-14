@@ -6,3 +6,12 @@ C:\_blazor\Blazor_Condicionais\Blazor_Condicionais\Shared\obj\Debug\netstandard2
 C:\_blazor\Blazor_Condicionais\Blazor_Condicionais\Shared\obj\Debug\netstandard2.0\Blazor_Condicionais.Shared.AssemblyInfo.cs
 C:\_blazor\Blazor_Condicionais\Blazor_Condicionais\Shared\obj\Debug\netstandard2.0\Blazor_Condicionais.Shared.dll
 C:\_blazor\Blazor_Condicionais\Blazor_Condicionais\Shared\obj\Debug\netstandard2.0\Blazor_Condicionais.Shared.pdb
+C:\Users\samue\Documents\GitHub\Blazor\Blazor_Condicionais\Blazor_Condicionais\Shared\bin\Debug\netstandard2.0\Blazor_Condicionais.Shared.deps.json
+C:\Users\samue\Documents\GitHub\Blazor\Blazor_Condicionais\Blazor_Condicionais\Shared\bin\Debug\netstandard2.0\Blazor_Condicionais.Shared.dll
+C:\Users\samue\Documents\GitHub\Blazor\Blazor_Condicionais\Blazor_Condicionais\Shared\bin\Debug\netstandard2.0\Blazor_Condicionais.Shared.pdb
+C:\Users\samue\Documents\GitHub\Blazor\Blazor_Condicionais\Blazor_Condicionais\Shared\obj\Debug\netstandard2.0\Blazor_Condicionais.Shared.csprojAssemblyReference.cache
+C:\Users\samue\Documents\GitHub\Blazor\Blazor_Condicionais\Blazor_Condicionais\Shared\obj\Debug\netstandard2.0\Blazor_Condicionais.Shared.AssemblyInfoInputs.cache
+C:\Users\samue\Documents\GitHub\Blazor\Blazor_Condicionais\Blazor_Condicionais\Shared\obj\Debug\netstandard2.0\Blazor_Condicionais.Shared.AssemblyInfo.cs
+C:\Users\samue\Documents\GitHub\Blazor\Blazor_Condicionais\Blazor_Condicionais\Shared\obj\Debug\netstandard2.0\Blazor_Condicionais.Shared.csproj.CoreCompileInputs.cache
+C:\Users\samue\Documents\GitHub\Blazor\Blazor_Condicionais\Blazor_Condicionais\Shared\obj\Debug\netstandard2.0\Blazor_Condicionais.Shared.dll
+C:\Users\samue\Documents\GitHub\Blazor\Blazor_Condicionais\Blazor_Condicionais\Shared\obj\Debug\netstandard2.0\Blazor_Condicionais.Shared.pdb

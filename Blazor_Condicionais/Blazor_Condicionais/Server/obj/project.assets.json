@@ -3054,27 +3054,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\samue\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\_blazor\\Blazor_Condicionais\\Blazor_Condicionais\\Server\\Blazor_Condicionais.Server.csproj",
+      "projectUniqueName": "C:\\Users\\samue\\Documents\\GitHub\\Blazor\\Blazor_Condicionais\\Blazor_Condicionais\\Server\\Blazor_Condicionais.Server.csproj",
       "projectName": "Blazor_Condicionais.Server",
-      "projectPath": "C:\\_blazor\\Blazor_Condicionais\\Blazor_Condicionais\\Server\\Blazor_Condicionais.Server.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\_blazor\\Blazor_Condicionais\\Blazor_Condicionais\\Server\\obj\\",
+      "projectPath": "C:\\Users\\samue\\Documents\\GitHub\\Blazor\\Blazor_Condicionais\\Blazor_Condicionais\\Server\\Blazor_Condicionais.Server.csproj",
+      "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\samue\\Documents\\GitHub\\Blazor\\Blazor_Condicionais\\Blazor_Condicionais\\Server\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\samue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
@@ -3085,12 +3078,13 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
+          "targetAlias": "netcoreapp3.0",
           "projectReferences": {
-            "C:\\_blazor\\Blazor_Condicionais\\Blazor_Condicionais\\Client\\Blazor_Condicionais.Client.csproj": {
-              "projectPath": "C:\\_blazor\\Blazor_Condicionais\\Blazor_Condicionais\\Client\\Blazor_Condicionais.Client.csproj"
+            "C:\\Users\\samue\\Documents\\GitHub\\Blazor\\Blazor_Condicionais\\Blazor_Condicionais\\Client\\Blazor_Condicionais.Client.csproj": {
+              "projectPath": "C:\\Users\\samue\\Documents\\GitHub\\Blazor\\Blazor_Condicionais\\Blazor_Condicionais\\Client\\Blazor_Condicionais.Client.csproj"
             },
-            "C:\\_blazor\\Blazor_Condicionais\\Blazor_Condicionais\\Shared\\Blazor_Condicionais.Shared.csproj": {
-              "projectPath": "C:\\_blazor\\Blazor_Condicionais\\Blazor_Condicionais\\Shared\\Blazor_Condicionais.Shared.csproj"
+            "C:\\Users\\samue\\Documents\\GitHub\\Blazor\\Blazor_Condicionais\\Blazor_Condicionais\\Shared\\Blazor_Condicionais.Shared.csproj": {
+              "projectPath": "C:\\Users\\samue\\Documents\\GitHub\\Blazor\\Blazor_Condicionais\\Blazor_Condicionais\\Shared\\Blazor_Condicionais.Shared.csproj"
             }
           }
         }
@@ -3103,6 +3097,7 @@
     },
     "frameworks": {
       "netcoreapp3.0": {
+        "targetAlias": "netcoreapp3.0",
         "dependencies": {
           "Microsoft.AspNetCore.Blazor.Server": {
             "target": "Package",
@@ -3123,6 +3118,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.0.1, 3.0.1]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.0.3, 3.0.3]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -3131,7 +3144,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

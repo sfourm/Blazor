@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DiInvj0hSzbN3stbYb5sfZkMa/RLq7jvJ96WuL38Ioc1GzgzaZ+13buCgZsCWGIZ5nOi/Mjroeecowj4qgXuvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samue\\Documents\\GitHub\\Blazor\\Blazor_Condicionais\\Blazor_Condicionais\\Shared\\Blazor_Condicionais.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samue\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,26 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\_blazor\\Blazor_DataBinding\\Blazor_DataBinding\\Blazor_DataBinding.csproj": {}
+    "C:\\Users\\samue\\Documents\\GitHub\\Blazor\\Blazor_DataBinding\\Blazor_DataBinding\\Blazor_DataBinding.csproj": {}
   },
   "projects": {
-    "C:\\_blazor\\Blazor_DataBinding\\Blazor_DataBinding\\Blazor_DataBinding.csproj": {
+    "C:\\Users\\samue\\Documents\\GitHub\\Blazor\\Blazor_DataBinding\\Blazor_DataBinding\\Blazor_DataBinding.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_blazor\\Blazor_DataBinding\\Blazor_DataBinding\\Blazor_DataBinding.csproj",
+        "projectUniqueName": "C:\\Users\\samue\\Documents\\GitHub\\Blazor\\Blazor_DataBinding\\Blazor_DataBinding\\Blazor_DataBinding.csproj",
         "projectName": "Blazor_DataBinding",
-        "projectPath": "C:\\_blazor\\Blazor_DataBinding\\Blazor_DataBinding\\Blazor_DataBinding.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\_blazor\\Blazor_DataBinding\\Blazor_DataBinding\\obj\\",
+        "projectPath": "C:\\Users\\samue\\Documents\\GitHub\\Blazor\\Blazor_DataBinding\\Blazor_DataBinding\\Blazor_DataBinding.csproj",
+        "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\samue\\Documents\\GitHub\\Blazor\\Blazor_DataBinding\\Blazor_DataBinding\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\samue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -31,6 +26,7 @@
         },
         "frameworks": {
           "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
             "projectReferences": {}
           }
         },
@@ -42,6 +38,7 @@
       },
       "frameworks": {
         "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "dependencies": {
             "Microsoft.AspNetCore.Blazor": {
               "target": "Package",
@@ -78,7 +75,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
