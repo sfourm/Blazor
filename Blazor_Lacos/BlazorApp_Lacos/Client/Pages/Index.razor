@@ -1,0 +1,60 @@
+﻿@page "/"
+
+<h1>Pizza</h1>
+<div>
+    <h2>Pizza : @Pizza.Nome </h2>
+    <h2>Data  : @Pizza.DataCadastro.ToString("dd MM yyyy")</h2>
+</div>
+<hr />
+<h1>Pizzas(foreach)</h1>
+@foreach (var produto in GetProdutos())
+{
+    <div>
+        <h2>Pizza : @produto.Nome </h2>
+        <h2>Data  : @produto.DataCadastro.ToString("dd MM yyyy")</h2>
+    </div>
+}
+<h1>Pizzas(for)</h1>
+@for (var i = 0; i < produtos.Count; i++)
+{
+    <div>
+        <h2>@(i+1) - Pizza : @produtos[i].Nome </h2>
+        <h2>Data  : @produtos[i].DataCadastro.ToString("dd MM yyyy")</h2>
+    </div>
+}
+
+
+@code{
+
+    public Produto Pizza { get { return GetProduto(); } }
+
+    public List<Produto> produtos { get { return GetProdutos(); } }
+
+    private List<Produto> GetProdutos()
+    {
+        return new List<Produto>()
+{
+            new Produto(){
+               Nome = "Pizza Mussarela",
+               DataCadastro = new DateTime(2019, 9, 6)
+            },
+            new Produto(){
+               Nome = "Pizza Calabreza",
+               DataCadastro = new DateTime(2019, 8, 2)
+            },
+            new Produto(){
+               Nome = "Pizza Portuguesa",
+               DataCadastro = new DateTime(2019, 9, 1)
+            }
+        };
+    }
+
+    private Produto GetProduto()
+    {
+        return new Produto()
+        {
+            Nome = "Pizza Mussarela",
+            DataCadastro = new DateTime(2019, 9, 6)
+        };
+    }
+}

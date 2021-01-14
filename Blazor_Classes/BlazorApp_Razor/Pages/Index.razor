@@ -1,0 +1,31 @@
+﻿@page "/"
+
+@* comentario *@
+<h1>Olá, @nome.ToLower()</h1>
+<h1>data e hora : @DateTime.Today</h1>
+<h1>Dia da semana : @data.ToUpper()</h1>
+<hr />
+<h1>@Saudacao(nome)</h1>
+<hr />
+<h1> 2 + 2 = @(2 + 2) </h1>
+<hr />
+<button @onclick="@(()=> Console.WriteLine("Fui clicado"))">Clique aqui</button>
+
+
+
+@code{
+    //isso é uma variável
+    string nome = "Macoratti";
+    private string data = DateTime.Now.DayOfWeek.ToString();
+
+    private string Saudacao(string nome)
+    {
+        var mensagem = "Bem-Vindo " + nome.ToUpper();
+        return mensagem;
+    }
+
+    private void TrataCliqueBotao()
+    {
+        Console.WriteLine("Fui clicado");
+    }
+}

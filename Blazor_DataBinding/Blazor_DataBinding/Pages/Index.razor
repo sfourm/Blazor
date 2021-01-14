@@ -1,0 +1,20 @@
+﻿@page "/"
+
+<h1>@Mensagem</h1>
+
+<input @bind="@Mensagem" />
+
+
+@code{
+    private string Mensagem { get; set; } = "Olá, Macoratti";
+
+    private string Saudacao()
+    {
+        return "Bem-Vindo, ao Blazor";
+    }
+
+    private void AtualizaMensagem()
+    {
+        Mensagem = "Olá, Blazor, tudo bem ???";
+    }
+}

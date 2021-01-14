@@ -1,0 +1,8 @@
+C:\_blazor\BlazorApp_Lacos\BlazorApp_Lacos\Shared\bin\Debug\netstandard2.0\BlazorApp_Lacos.Shared.deps.json
+C:\_blazor\BlazorApp_Lacos\BlazorApp_Lacos\Shared\bin\Debug\netstandard2.0\BlazorApp_Lacos.Shared.dll
+C:\_blazor\BlazorApp_Lacos\BlazorApp_Lacos\Shared\bin\Debug\netstandard2.0\BlazorApp_Lacos.Shared.pdb
+C:\_blazor\BlazorApp_Lacos\BlazorApp_Lacos\Shared\obj\Debug\netstandard2.0\BlazorApp_Lacos.Shared.csprojAssemblyReference.cache
+C:\_blazor\BlazorApp_Lacos\BlazorApp_Lacos\Shared\obj\Debug\netstandard2.0\BlazorApp_Lacos.Shared.AssemblyInfoInputs.cache
+C:\_blazor\BlazorApp_Lacos\BlazorApp_Lacos\Shared\obj\Debug\netstandard2.0\BlazorApp_Lacos.Shared.AssemblyInfo.cs
+C:\_blazor\BlazorApp_Lacos\BlazorApp_Lacos\Shared\obj\Debug\netstandard2.0\BlazorApp_Lacos.Shared.dll
+C:\_blazor\BlazorApp_Lacos\BlazorApp_Lacos\Shared\obj\Debug\netstandard2.0\BlazorApp_Lacos.Shared.pdb
